@@ -1,6 +1,6 @@
 #include "mbed.h"
 
-// Initialize DigitalIn and DigitalOut objects with actual pin numbers
+
 DigitalIn button1(PD_13);
 DigitalIn button2(PB_15);
 DigitalOut led1(PC_9);
